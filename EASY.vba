@@ -2,7 +2,7 @@ Sub Easy():
 
     Dim WS_Count As Integer
     Dim j As Integer
-    Dim starting_ws As Worksheets
+    Dim starting_ws As Worksheet
     Set starting_ws=ActiveSheet
 
     WS_Count = ActiveWorkbook.Worksheets.Count
