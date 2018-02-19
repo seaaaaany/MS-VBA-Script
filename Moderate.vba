@@ -1,5 +1,5 @@
 'Line 89 might cause an issue: "Run-time error'11'. Division by zero."
-'Because the value of an expression being used as a divisor is ZERO. Tried to debug and the rest works fine.
+'Because the value of an expression being used as a divisor is ZERO.
 
 Sub Moderate()
 
